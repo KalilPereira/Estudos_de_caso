@@ -1,2 +1,2 @@
-# Estudo de caso gerado a partir de Inteligência Artificial
+# A ideia desse estudo de caso foi gerada a partir de Inteligência Artificial
 
