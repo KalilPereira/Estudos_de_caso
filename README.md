@@ -1,1 +1,1 @@
-# Análise de Qualidade em Linha de Produção
+# Aqui eu publico todos os estudos de caso que resolvo
