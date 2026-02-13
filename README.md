@@ -1,1 +1,2 @@
-# Aqui eu publico todos os estudos de caso que resolvo
+# Estudo de caso gerado a partir de Inteligência Artificial
+
